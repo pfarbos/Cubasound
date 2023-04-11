@@ -57,6 +57,7 @@ Merci pour l'intérêt que vous portez à ce projet !
 
 Veillez à correctement paramétrer les flux entrée/sortie AVANT de démarrer le programme. Dans le cas contraire des problèmes pourraient survenir. (pas de son, analyseur de spectre non fonctionnel ...)
 
+Le fichier auto.ps1 est un script PowerShell permettant simplement de paramétrer l'entrée et la sortie audio de manière plus intuitive et rapide. Il n'est pas nécéssaire.
 
 Crédits : FARBOS Paulin, Samuel Lapointe.
 
