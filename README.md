@@ -59,5 +59,4 @@ Veillez à correctement paramétrer les flux entrée/sortie AVANT de démarrer l
 
 Le fichier auto.ps1 est un script PowerShell permettant simplement de paramétrer l'entrée et la sortie audio de manière plus intuitive et rapide. Il n'est pas nécéssaire.
 
-Crédits : FARBOS Paulin, Samuel Lapointe.
 
